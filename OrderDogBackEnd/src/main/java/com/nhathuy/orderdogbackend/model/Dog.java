@@ -13,7 +13,7 @@ import java.time.ZonedDateTime;
 public class Dog {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private int id;
+    private String id;
     private String name;
     private String description;
     private String imageUrl;
