@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/OrderDog.iml" filepath="$PROJECT_DIR$/.idea/OrderDog.iml" />
+<<<<<<< HEAD
+=======
+      <module fileurl="file://$PROJECT_DIR$/OrderDogBackEnd/src/main/main.iml" filepath="$PROJECT_DIR$/OrderDogBackEnd/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrderDogBackEnd/src/test/test.iml" filepath="$PROJECT_DIR$/OrderDogBackEnd/src/test/test.iml" />
+>>>>>>> ae5a56b439f7f64785a43dff2f120469518baf47
     </modules>
   </component>
 </project>
